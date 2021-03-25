@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Exclude default cache and data-dirs
+__cache
+__data
+
+# Exclude any real world tasks.json file
+tasks.json

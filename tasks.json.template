@@ -1,0 +1,10 @@
+{"Tasks": 
+    [{
+        "Name": "Name of the task",
+        "URL": "Url to download data from",
+        "Interval": "5m",
+        "TempTargetFilename": "Filename for downloaded data. This may contain format information for the timestamp, eg. %Y%m%d_%H%M.json",
+        "TargetDir": "Directory to finally download data to",
+        "TempDir": "Directory to download data to before moving it to the final target directory (optional)"
+    }]
+}

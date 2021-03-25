@@ -1,0 +1,24 @@
+{"Tasks": 
+    [{
+        "Name": "Impfzentren Sachsen",
+        "URL": "https://www.startupuniverse.ch/api/1.1/de/counters/getAll/_iz_sachsen",
+        "Interval": "1m",
+        "TargetFilename": "IZ_%Y%m%d_%H%M.json",
+        "TargetDir": "__data\\",
+        "TempDir": ""
+    },
+    {
+        "Name": "GitHub Homepage - Sample",
+        "URL": "https://github.com",
+        "Interval": "1m",
+        "TargetFilename": "GitHub.html",
+        "TargetDir": "__data\\"
+    },
+    {
+        "Name": "",
+        "URL": "",
+        "Interval": "",
+        "TargetFilename": "",
+        "TargetDir": "__data\\"
+    }]
+}
